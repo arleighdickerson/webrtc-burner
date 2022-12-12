@@ -13,7 +13,7 @@
     "@blueprintjs/icons": "^3.17.0",
     "cross-env": "^7.0.2",
     "date-fns": "^2.11.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "gray-matter": "^4.0.2",
     "lodash": "^4.17.15",
     "mobx": "^5.15.4",
